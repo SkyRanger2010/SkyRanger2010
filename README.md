@@ -38,7 +38,7 @@
 
 ## Контакты 📱
 
-- Telegram: [@VasilyS](https://t.me/VasilyS)
+- Telegram: [@VasilySat](https://t.me/VasilySat)
 - Skype: [vsatantsev](skype:vsatantsev)
 
 ## Благодарности 🙏
